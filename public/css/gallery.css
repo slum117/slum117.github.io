@@ -1,0 +1,120 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* header styles */
+/*
+.navbar {
+    background: rgba(187, 187, 187, 0.73);
+}
+*/
+.logo {
+    background-color: #fffafa;
+}
+
+.button-float-right {
+    position: relative;
+    float: right;
+}
+
+.sign-in-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.sign-in-link:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+}
+
+.sign-up-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sign-up-link:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+}
+
+.sign-up {
+    margin-left: 10px;
+}
+/* header end */
+
+/* main styles */
+main {
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 30px;
+}
+
+/* gallery styles */
+.thumb {
+    width: 100%;
+    width: -moz-available;          /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+    width: fill-available;
+}
+
+
+  
+  .hover-shadow {
+    transition: 0.3s;
+  }
+  
+  .hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+
+
+
+
+
+
+/* main end */
+
+/* footer styles */
+.footer-copy-block {
+    display: flex;
+    align-items: center;
+}
+
+.footer-copy-text {
+    color: #6c757d; 
+}
+
+.footer-a {
+    color: #6c757d;
+}
+
+.footer-a:hover {
+    color: #fff;
+}
+
+.active {
+    color:aliceblue;
+}
+
+.social-icons {
+    text-align: right;
+    letter-spacing: 20px;
+}
+
+.social-icons-mobile {
+    margin-top: 5px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+/* footer end */
+
+
+a:hover {
+    color: aliceblue;
+}

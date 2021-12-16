@@ -1,0 +1,153 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* header styles */
+/*
+.navbar {
+    background: rgba(187, 187, 187, 0.73);
+}
+*/
+.logo {
+    background-color: #fffafa;
+}
+
+.button-float-right {
+    position: relative;
+    float: right;
+}
+
+.sign-in-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.sign-in-link:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+}
+
+.sign-up-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sign-up-link:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+}
+
+.sign-up {
+    margin-left: 10px;
+}
+
+/* header end */
+
+/* main */
+main {
+    /*
+    padding-top: 100px;
+    padding-bottom: 100px;
+    */
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 30px;
+}
+
+
+.forgot-pass {
+    display: block;
+    margin-top: 20px;
+}
+
+.forgot-pass-a {
+    color: #000;
+    text-decoration: none;
+    float: left;
+}
+
+.forgot-pass-a:hover {
+    color: #888;
+}
+
+.create-account {
+    color: #000;
+    text-decoration: none;
+    float: right;
+}
+
+.create-account:hover {
+    color: #888;
+}
+
+
+.btn-dark:hover {
+    color: #000;
+    background-color: #fff;
+
+}
+
+
+
+.divider-line {
+    width: 100%;
+    display: flex;
+    margin-top: 40px;
+}
+
+.line {
+    height: 1px;
+    width: 45%;
+    background-color: #888;
+}
+
+.or {
+    width: 10%;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+
+
+/* main end */
+
+/* footer styles */
+.footer-copy-block {
+    display: flex;
+    align-items: center;
+}
+
+.footer-copy-text {
+    color: #6c757d; 
+}
+
+.footer-a {
+    color: #6c757d;
+}
+
+.footer-a:hover {
+    color: #fff;
+}
+
+.social-icons {
+    text-align: right;
+    letter-spacing: 20px;
+}
+
+.social-icons-mobile {
+    margin-top: 5px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+/* footer end */
+

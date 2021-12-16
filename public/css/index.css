@@ -1,0 +1,146 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* header styles */
+/*
+.navbar {
+    background: rgba(187, 187, 187, 0.73);
+}
+*/
+.logo {
+    background-color: #fffafa;
+}
+
+.button-float-right {
+    position: relative;
+    float: right;
+}
+
+.sign-in-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.sign-in-link:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+}
+
+.sign-up-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sign-up-link:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+}
+
+.sign-up {
+    margin-left: 10px;
+}
+
+
+
+
+
+/* header end */
+
+/* main styles */
+main {
+    /*
+    padding-top: 100px;
+    padding-bottom: 100px;
+    */
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 30px;
+}
+
+#carouselExampleIndicators {
+    max-height: 500px !important;
+}
+
+
+.carousel-inner {
+    max-height: 500px !important;
+    border-radius: 5px;
+}
+
+.transparent-bg{
+	background: rgba(187, 187, 187, 0.73);
+}
+
+.carousel-caption {
+    width: 500px;
+    margin: auto;
+    line-height: 60px;
+    border-radius: 5px;
+}
+
+.caption-btn {
+    text-decoration: none;
+    color: #fff;
+}
+
+.caption-btn:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+}
+
+.col-text {
+    line-height: 40px;
+}
+
+.testimonials p {
+    font-style: italic;
+}
+
+
+/* main end */
+
+/* footer styles */
+.footer-copy-block {
+    display: flex;
+    align-items: center;
+}
+
+.footer-copy-text {
+    color: #6c757d; 
+}
+
+.footer-a {
+    color: #6c757d;
+}
+
+.footer-a:hover {
+    color: #fff;
+}
+
+.active {
+    color:aliceblue;
+}
+
+.social-icons {
+    text-align: right;
+    letter-spacing: 20px;
+}
+
+.social-icons-mobile {
+    margin-top: 5px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+/* footer end */
+
+
+a:hover {
+    color: aliceblue;
+}
