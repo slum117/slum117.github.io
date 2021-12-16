@@ -21,11 +21,11 @@ app.set('view engine', 'ejs');
 
 // routes
 const indexRouter = require('./routes/index');
-const loginRouter = require('./routes/login');
-const galleryRouter = require('./routes/gallery');
-const contactRouter = require('./routes/about');
-const signupRouter = require('./routes/signup');
-const servicesRouter = require('./routes/services');
+//const loginRouter = require('./routes/login');
+//const galleryRouter = require('./routes/gallery');
+//const contactRouter = require('./routes/about');
+//const signupRouter = require('./routes/signup');
+//const servicesRouter = require('./routes/services');
 
 app.use('/', indexRouter);
 app.use('/login', loginRouter);
