@@ -28,11 +28,11 @@ const indexRouter = require('./routes/index');
 //const servicesRouter = require('./routes/services');
 
 app.use('/', indexRouter);
-app.use('/login', loginRouter);
-app.use('/gallery', galleryRouter);
-app.use('/contact', contactRouter);
-app.use('/signup', signupRouter);
-app.use('/services', servicesRouter);
+//app.use('/login', loginRouter);
+//app.use('/gallery', galleryRouter);
+//app.use('/contact', contactRouter);
+///app.use('/signup', signupRouter);
+//app.use('/services', servicesRouter);
 
 /*// database connection
 const con = mysql.createConnection({
