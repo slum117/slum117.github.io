@@ -12,7 +12,7 @@
 Events by Param was created by a team of eight crackpot computer science majors at Sacramento State. Their due-diligence, creativity, teamwork and raw effort gave rise to a website created for an event planning buisness, headed by Param Lastname.
 
 
-[Learn more on our website](https://wwww.eventsbyparam.com)
+[Learn more on our website](https://www.eventsbyparam.com)
 
 ## Table of Contents
 
