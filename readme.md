@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/brentonkludt/brentonkludt.github.io/blob/main/Picture1.png" alt="Events by Param"/>
+  <img src="Picture1.png" alt="Events by Param"/>
 </p>
 
 
